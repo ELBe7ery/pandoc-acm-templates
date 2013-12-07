@@ -3,4 +3,5 @@ A template for building shortpapers in pandoc using the sensys-abstract.csl late
 
 ## Usage
 To compile all markdown files to pdf
+
     make
