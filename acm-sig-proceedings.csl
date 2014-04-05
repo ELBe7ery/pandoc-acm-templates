@@ -17,7 +17,7 @@
     <category citation-format="numeric"/>
     <category field="science"/>
     <category field="engineering"/>
-    <updated>2013-08-29T05:27:03+00:00</updated>
+    <updated>2012-09-27T22:06:38+00:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <macro name="author">
@@ -140,7 +140,6 @@
             <text macro="editor"/>
             <text variable="publisher"/>
             <text variable="page"/>
-            <text variable="URL" font-style="italic"/>
           </group>
         </else-if>
         <else-if type="bill book graphic legal_case legislation motion_picture report song" match="any">
